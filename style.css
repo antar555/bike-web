@@ -10,10 +10,46 @@
     padding: 10px 46px;
     border: none;
 }
+.honda-feature{
+    margin-left: 10px;
+}
  .honda-feature img{
     width: 288px;
     height: 243px;
 }
 .honda-feature .grayscale img{
     filter: grayscale(100%);
+}
+.user img{
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.user p{
+    line-height: 30px;
+   
+}
+.fa-star.filled{
+    color: #E77C40;;
+}
+.fa-star.empty{
+    
+
+    color: gray;
+}
+
+span{
+    color:#E76F51; 
+}
+.question img{
+    width: 431.2px;
+    width: 423.5px;
+}
+
+.accordion-item button{
+    outline: none;
+    border: none;
+
 }
