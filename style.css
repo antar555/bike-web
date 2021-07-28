@@ -1,0 +1,19 @@
+.honda-bg-info{
+    background-color: #264653;
+}
+
+.hero-btn-buy-now{
+    background-color: #E76F51;
+
+    border-radius: 8px;
+    color: white;
+    padding: 10px 46px;
+    border: none;
+}
+ .honda-feature img{
+    width: 288px;
+    height: 243px;
+}
+.honda-feature img:hover{
+    filter: grayscale(100%);
+}
